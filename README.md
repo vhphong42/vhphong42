@@ -28,7 +28,6 @@
 ## 📊 Orbital Power Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vhphong42&show_icons=true&theme=react&bg_color=0d1117&title_color=00BFFF&icon_color=00BFFF" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vhphong42&theme=react&background=0d1117&ring=00BFFF&fire=00FFFF" />
 </p>
