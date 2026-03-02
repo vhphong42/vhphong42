@@ -12,10 +12,7 @@
 
 ## 🌍 Earth Orbital System
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vhphong42/vhphong42/main/![Uploading 110371-688648556_large.gif…]()
-" width="600"/>
-</p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vhphong42&theme=tokyonight"/> </p>
 ---
 
 ---
