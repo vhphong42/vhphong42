@@ -13,34 +13,10 @@
 ## 🌍 Earth Orbital System
 
 <p align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif" width="260"/>
+  <img src="[https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif](https://www.pinterest.com/pin/13721973861051740/)" width="600"/>
 </p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7TKtnuHOHHUjR38Y/giphy.gif" width="180"/>
-</p>
-
 ---
-## 🧠 Orbital Developer Profile
 
-```bash
-$ whoami
-vhphong42
-
-$ role
-Fullstack Developer
-
-$ tech_stack
-React | C# | .NET | SQL Server
-
-$ current_mission
-Designing scalable systems across galaxies 🚀
-
-$ status
-🛰 Satellite Link: Stable
-🌍 Earth Orbit: Active
-⚡ Hacker Mode: ENABLED
-```
 ---
 
 ## 🛠 Tech Galaxy
@@ -60,13 +36,6 @@ $ status
 </p>
 
 ---
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/vhphong42/vhphong42/output/github-contribution-grid-snake-dark.svg" />
-</p>
-
 ---
 
 ## 🌌 Activity Graph
@@ -76,13 +45,6 @@ $ status
 </p>
 
 ---
-
-## 🛰 Now Playing
-
-<p align="center">
-  <img src="https://spotifygithubprofile.vercel.app/api/viewuid=31rnwx367liaeebdfz2gb2abv4zq&cover_image=true&theme=novatorem&bar_color=00BFFF&bar_color_cover=true" />
-</p>
-
 ---
 
 ## 🌠 Multiverse Visitors
