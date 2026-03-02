@@ -13,7 +13,7 @@
 ## 🌍 Earth Orbital System
 
 <p align="center">
-  <img src="[https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif](https://www.pinterest.com/pin/13721973861051740/)" width="600"/>
+  <img src="[[https://upload.wikimedia.org/wikipedia/commons/2/2c/Rotating_earth_%28large%29.gif](https://www.pinterest.com/pin/13721973861051740/)](https://cdn.pixabay.com/video/2022/03/10/110371-688648556_large.mp4)" width="600"/>
 </p>
 ---
 
