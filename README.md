@@ -13,7 +13,8 @@
 ## 🌍 Earth Orbital System
 
 <p align="center">
-  <img src="https://cdn.pixabay.com/video/2022/03/10/110371-688648556_large.mp4" width="600"/>
+  <img src="https://raw.githubusercontent.com/vhphong42/vhphong42/main/![Uploading 110371-688648556_large.gif…]()
+" width="600"/>
 </p>
 ---
 
