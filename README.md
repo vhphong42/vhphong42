@@ -24,7 +24,8 @@
 
 ## 🧠 Developer Identity
 
-const VHPHONG = {
+```javascript
+const VHHONG = {
   role: "Fullstack Developer",
   location: "Earth 🌍",
   stack: ["React", "C#", ".NET", "SQL Server"],
@@ -35,8 +36,7 @@ const VHPHONG = {
 function launchMission() {
   return "Satellite Deployed 🛰️";
 }
-
-
+```
 ---
 
 ## 🛠 Tech Galaxy
