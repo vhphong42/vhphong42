@@ -13,63 +13,7 @@
 ## 🌍 Earth Orbital System
 
 <p align="center">
-
-<svg width="400" height="400" viewBox="0 0 400 400">
-
-  <!-- Background glow -->
-  <defs>
-    <radialGradient id="spaceGlow" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#1a0033"/>
-      <stop offset="100%" stop-color="#000000"/>
-    </radialGradient>
-
-    <radialGradient id="earthGradient" cx="50%" cy="50%" r="50%">
-      <stop offset="0%" stop-color="#4facfe"/>
-      <stop offset="100%" stop-color="#00f2fe"/>
-    </radialGradient>
-  </defs>
-
-  <circle cx="200" cy="200" r="190" fill="url(#spaceGlow)" />
-
-  <!-- Earth -->
-  <circle cx="200" cy="200" r="70" fill="url(#earthGradient)">
-    <animateTransform
-      attributeName="transform"
-      type="rotate"
-      from="0 200 200"
-      to="360 200 200"
-      dur="20s"
-      repeatCount="indefinite"/>
-  </circle>
-
-  <!-- Orbit path -->
-  <circle cx="200" cy="200" r="120"
-          fill="none"
-          stroke="#7F00FF"
-          stroke-dasharray="5 10"
-          opacity="0.3"/>
-
-  <!-- Orbiting Text -->
-  <g>
-    <animateTransform
-      attributeName="transform"
-      type="rotate"
-      from="0 200 200"
-      to="360 200 200"
-      dur="10s"
-      repeatCount="indefinite"/>
-
-    <text x="200" y="80"
-          text-anchor="middle"
-          fill="#00FFFF"
-          font-size="18"
-          font-family="monospace">
-      vhphong42
-    </text>
-  </g>
-
-</svg>
-
+  <img src="https://svgshare.com/i/13kA.svg" width="600" />
 </p>
 ---
 
