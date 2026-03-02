@@ -9,11 +9,9 @@
 </p>
 
 ---
-
 ## 🌍 Earth Orbital System
-
 <p align="center">
-  <img src="https://svgshare.com/i/13kA.svg" width="600" />
+  <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="350"/>
 </p>
 ---
 
