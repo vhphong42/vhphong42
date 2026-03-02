@@ -12,7 +12,7 @@
 
 ## 🌍 Earth Orbital System
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=vhphong42&show_icons=true&theme=tokyonight&hide_border=true&bg_color=000000" height="180"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=vhphong42&theme=tokyonight&hide_border=true&background=000000" height="180"/> </p> <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vhphong42&layout=compact&theme=tokyonight&hide_border=true&bg_color=000000" height="180"/> </p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vhphong42&theme=tokyonight"/> </p>
 ---
 
 ---
