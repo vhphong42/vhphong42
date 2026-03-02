@@ -21,21 +21,25 @@
 </p>
 
 ---
+## 🧠 Orbital Developer Profile
 
-## 🧠 Developer Identity
+```bash
+$ whoami
+vhphong42
 
-```javascript
-const VHPHONG42 = {
-  role: "Fullstack Developer",
-  location: "Earth 🌍",
-  stack: ["React", "C#", ".NET", "SQL Server"],
-  learning: ["System Design", "Microservices", "AI"],
-  status: "Orbiting new technologies 🚀"
-};
+$ role
+Fullstack Developer
 
-function launchMission() {
-  return "Satellite Deployed 🛰️";
-}
+$ tech_stack
+React | C# | .NET | SQL Server
+
+$ current_mission
+Designing scalable systems across galaxies 🚀
+
+$ status
+🛰 Satellite Link: Stable
+🌍 Earth Orbit: Active
+⚡ Hacker Mode: ENABLED
 ```
 ---
 
@@ -76,8 +80,7 @@ function launchMission() {
 ## 🛰 Now Playing
 
 <p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view?uid=31rnwx367liaeebdfz2gb2abv4zq
-&cover_image=true&theme=novatorem&bar_color=00BFFF&bar_color_cover=true" />
+  <img src="https://spotifygithubprofile.vercel.app/api/viewuid=31rnwx367liaeebdfz2gb2abv4zq&cover_image=true&theme=novatorem&bar_color=00BFFF&bar_color_cover=true" />
 </p>
 
 ---
