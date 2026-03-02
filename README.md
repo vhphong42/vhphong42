@@ -25,7 +25,7 @@
 ## 🧠 Developer Identity
 
 ```javascript
-const VHHONG = {
+const VHPHONG = {
   role: "Fullstack Developer",
   location: "Earth 🌍",
   stack: ["React", "C#", ".NET", "SQL Server"],
