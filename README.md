@@ -2,7 +2,7 @@
 <!--     vhphong42 UNIVERSE 4.0       -->
 <!-- =============================== -->
 
-<h1 align="center">🌌 VHPHONG — Orbital Command</h1>
+<h1 align="center">🌌 VHPHONG </h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=26&duration=3000&color=00BFFF&center=true&vCenter=true&width=900&lines=Booting+Orbital+System...;Earth+Satellite+Connected;Fullstack+Developer;React+%7C+.NET+%7C+SQL+Server;Mission:+Build+Beyond+Galaxy" />
@@ -13,7 +13,7 @@
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="350"/>
 </p>
----
+
 
 ---
 
