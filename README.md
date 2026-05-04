@@ -9,7 +9,7 @@
 </p>
 
 ---
-## 🌍 Earth Orbital System
+## 🌍 
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYEqEzwMWFCg8rm/giphy.gif" width="350"/>
 </p>
@@ -17,7 +17,7 @@
 
 ---
 
-## 🛠 Tech Galaxy
+## 🛠 Tech 
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=react,js,ts,cs,dotnet,sqlserver,nodejs,git,github,vscode,figma" />
@@ -25,7 +25,7 @@
 
 ---
 
-## 📊 Orbital Power Stats
+## 📊 Orbital 
 
 <p align="center">
   <br/>
